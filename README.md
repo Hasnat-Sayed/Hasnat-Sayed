@@ -3,18 +3,28 @@
   <img src="assets/LinkedinBanner.png" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Hasnat Sayed 👋</h1>
+<h1 align="center">Hi, I'm Hasnat Bin Sayed 👋</h1>
 
 <p align="center">
-  Computer Science Student • Web Developer • Competitive Programming Enthusiast
+  <b>Computer Science Student • Web Developer • Competitive Programming Enthusiast</b
 </p>
 
 ---
 
 ## 🚀 About Me
-- Passionate about building clean and efficient software  
-- Interested in **web development**, **problem solving**, and **system-level programming**  
-- Always learning and improving my coding skills  
+I’m a Computer Science student with a strong interest in web development and problem solving. I enjoy building modern, responsive web applications and learning new technologies. Alongside development, I actively practice competitive programming to strengthen my algorithmic thinking. 
+
+---
+
+## 🔭 Current Activities
+
+- Exploring Next.js to build scalable and high-performance web applications
+
+- Working on a Blood Donation website with modern UI and responsive design
+
+- Improving problem-solving skills through competitive programming practice
+
+- Learning best practices for clean code and project structure
 
 ---
 
@@ -23,7 +33,6 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hasnat-Sayed&show_icons=true&theme=dark" height="160"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hasnat-Sayed&layout=compact&theme=dark" height="160"/>
 </p>
-
 ---
 
 ## 🛠️ Skills & Technologies
