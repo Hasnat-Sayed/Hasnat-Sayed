@@ -1,70 +1,117 @@
-<!-- ======= BANNER ======= -->
-<p align="center">
-  <img src="assets/LinkedinBanner.png" alt="Banner" width="100%" />
-</p>
-
-<h1 align="center">Hi, I'm Hasnat Bin Sayed 👋</h1>
 
 <p align="center">
-  <b>Computer Science Student • Web Developer • Competitive Programming Enthusiast</b
+  <img src="assets/LinkedinBanner.png" alt="Hasnat Bin Sayed — Developer Banner" width="100%" />
+</p>
+
+<h1 align="center">Hasnat Bin Sayed</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&pause=1000&color=1F3A5F&center=true&vCenter=true&width=560&lines=Full-Stack+Web+Developer;CSE+Undergraduate+%40+IIUC;Open+to+Internship+Opportunities" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  Building practical web applications with clean APIs, reliable databases, and user-focused interfaces.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Hasnat-Sayed">
+    <img src="https://img.shields.io/badge/GitHub-1F3A5F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/hasnat-bin-sayed">
+    <img src="https://img.shields.io/badge/LinkedIn-1F3A5F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:hasnatbin1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1F3A5F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hasnat-Sayed&style=flat-square&color=1F3A5F&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Open_to-Internships-1F3A5F?style=flat-square" alt="Open to internships" />
 </p>
 
 ---
 
-## 🚀 About Me
-I’m a Computer Science student with a strong interest in web development and problem solving. I enjoy building modern, responsive web applications and learning new technologies. Alongside development, I actively practice competitive programming to strengthen my algorithmic thinking. 
+## 👋 About Me
 
----
+I'm a Computer Science and Engineering undergraduate at **International Islamic University Chittagong (IIUC)** with a strong interest in full-stack development, backend engineering, and database systems.
 
-## 🔭 Current Activities
+I enjoy turning ideas into functional applications, designing REST APIs, working with relational and NoSQL databases, and learning how to build software that is maintainable and scalable.
 
-- Exploring Next.js to build scalable and high-performance web applications
+- 🎓 CSE undergraduate at IIUC
+- 🧑‍🏫 Undergraduate Teaching Assistant for Software Engineering and Compiler Construction labs
+- 💻 Building full-stack applications using React, Node.js, Express, and modern databases
+- 🗄️ Exploring backend architecture, authentication, API design, and database modeling
+- 🌱 Currently developing my skills in TypeScript, Prisma, and Next.js
+- 🎯 Seeking junior web development and full-stack internship opportunities
 
-- Working on a Blood Donation website with modern UI and responsive design
+## 🛠️ Technical Skills
 
-- Improving problem-solving skills through competitive programming practice
+### Languages
 
-- Learning best practices for clean code and project structure
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts&perline=8" alt="C, C++, Python, JavaScript, TypeScript" />
+</p>
 
----
+### Frontend Development
 
-## 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Hasnat-Sayed&show_icons=true&theme=tokyonight&hide_border=true" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnat-Sayed&layout=compact&theme=tokyonight&hide_border=true" height="160"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasnat-Sayed&theme=tokyonight&hide_border=true" height="160"/> </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nextjs&perline=8" alt="HTML, CSS, React, Tailwind CSS, Next.js" />
+</p>
 
----
+### Backend Development
 
-## 🛠️ Skills & Technologies
-**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma&perline=8" alt="Node.js, Express, Prisma" />
+</p>
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Databases
 
-**Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&perline=8" alt="MongoDB and PostgreSQL" />
+</p>
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### Tools & Platforms
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase&perline=8" alt="Git, GitHub, VS Code, Postman, Firebase" />
+</p>
+
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hasnat-Sayed&show_icons=true&hide_border=true&theme=transparent&title_color=1F3A5F&icon_color=1F3A5F&rank_icon=github" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnat-Sayed&layout=compact&hide_border=true&theme=transparent&title_color=1F3A5F" height="165" alt="Most-used programming languages" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Hasnat-Sayed&theme=transparent&hide_border=true&ring=1F3A5F&fire=1F3A5F&currStreakLabel=1F3A5F" height="165" alt="GitHub contribution streak" />
+</p>
 
 ## 📫 Connect With Me
-<div>
-  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hasnat-Sayed)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasnat-bin-sayed)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasnatbin1@gmail.com)
+
+<p align="left">
+  <a href="https://github.com/Hasnat-Sayed" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/hasnat-bin-sayed" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:hasnatbin1@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://wa.me/8801876387733" target="_blank">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="45" height="45" alt="WhatsApp" />
+  </a>
+</p>
 
 
-</div>
-
+<p align="center">
+  <i>Always learning. Always building.</i>
+</p>
