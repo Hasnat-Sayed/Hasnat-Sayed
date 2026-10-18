@@ -1,12 +1,6 @@
 
 <p align="center">
-  <img src="assets/LinkedinBanner (1).png" alt="Hasnat Bin Sayed — Developer Banner" width="100%" />
-</p>
-
-<h1 align="center">Hasnat Bin Sayed</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&pause=1000&color=1F3A5F&center=true&vCenter=true&width=560&lines=Full-Stack+Web+Developer;CSE+Undergraduate+%40+IIUC;Open+to+Internship+Opportunities" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:022c22,50:064e3b,100:10b981&height=220&section=header&text=Hasnat%20Bin%20Sayed&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=58&descSize=18" alt="Hasnat Bin Sayed banner" />
 </p>
 
 <p align="center">
@@ -15,19 +9,19 @@
 
 <p align="center">
   <a href="https://github.com/Hasnat-Sayed">
-    <img src="https://img.shields.io/badge/GitHub-1F3A5F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/hasnat-bin-sayed">
-    <img src="https://img.shields.io/badge/LinkedIn-1F3A5F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-2ea44f?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:hasnatbin1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1F3A5F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-2ea44f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hasnat-Sayed&style=flat-square&color=1F3A5F&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Open_to-Internships-1F3A5F?style=flat-square" alt="Open to internships" />
+  <img src="https://komarev.com/ghpvc/?username=Hasnat-Sayed&style=flat-square&color=22c55e&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Open_to-Internships-22c55e?style=flat-square" alt="Open to internships" />
 </p>
 
 ---
@@ -83,12 +77,12 @@ I enjoy turning ideas into functional applications, designing REST APIs, working
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hasnat-Sayed&show_icons=true&hide_border=true&theme=transparent&title_color=1F3A5F&icon_color=1F3A5F&rank_icon=github" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnat-Sayed&layout=compact&hide_border=true&theme=transparent&title_color=1F3A5F" height="165" alt="Most-used programming languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hasnat-Sayed&show_icons=true&hide_border=true&theme=tokyonight&title_color=2ea44f&icon_color=2ea44f&text_color=2ea44f&rank_icon=github" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnat-Sayed&layout=compact&hide_border=true&theme=tokyonight&title_color=2ea44f&text_color=2ea44f" height="165" alt="Most-used programming languages" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Hasnat-Sayed&theme=transparent&hide_border=true&ring=1F3A5F&fire=1F3A5F&currStreakLabel=1F3A5F" height="165" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=Hasnat-Sayed&theme=tokyonight&ring=2ea44f&fire=2ea44f&currStreakLabel=2ea44f&sideLabels=2ea44f&dates=2ea44f" height="165" alt="GitHub contribution streak" />
 </p>
 
 ## 📫 Connect With Me
