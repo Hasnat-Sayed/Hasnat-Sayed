@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/LinkedinBanner.png" alt="Hasnat Bin Sayed — Developer Banner" width="100%" />
+  <img src="assets/LinkedinBanner (1).png" alt="Hasnat Bin Sayed — Developer Banner" width="100%" />
 </p>
 
 <h1 align="center">Hasnat Bin Sayed</h1>
